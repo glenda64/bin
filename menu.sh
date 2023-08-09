@@ -1,0 +1,11 @@
+bemenu-run --no-exec \
+	--fn "CaskaydiaCove Nerd Font 8" \
+	-p "" \
+	--tb  "#daefb3" --tf  "#1c2826" \
+	--fb  "#daefb3" --ff  "#1c2826" \
+	--cb  "#daefb3" --cf  "#1c2826" \
+	--nb  "#daefb3" --nf  "#1c2826" \
+	--hb  "#daefb3" --hf  "#d64550" \
+	--fbb "#daefb3" --fbf "#1c2826" \
+	--sb  "#daefb3" --sf  "#1c2826" \
+	--ab  "#daefb3" --af  "#1c2826"
